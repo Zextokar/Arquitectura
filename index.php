@@ -27,7 +27,7 @@ $(document).ready(function() {
 <body>
 <header> 
   <!-- Fixed navbar -->
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark"> <a class="navbar-brand" href="#"> rodrigo orellana</a>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark"> <a class="navbar-brand" href="#">Benjamin Mellado & Renato Rodriguez</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
@@ -148,7 +148,7 @@ print_r($sql->errorInfo());
 }
 }// Cierra envio de guardado
 ?>
-  <h3 class="mt-5">TALLER DE INFRAESTRUCTURA CURICO DEMO1</h3>
+  <h3 class="mt-5">EVALUACION3</h3>
   <hr>
   <div class="row">
   
@@ -316,7 +316,7 @@ echo "<tr>
 <!-- Fin container -->
 <footer class="footer">
   <div class="container"> <span class="text-muted">
-    <p>Códigos <a href="https://www.INACAP.cL/" target="_blank">RODRIGO ORELLANA</a></p>
+    <p>Códigos <a href="https://www.INACAP.cL/" target="_blank">Benjamin Mellado & Renato Rodriguez</a></p>
     </span> </div>
 </footer>
 
